@@ -24,9 +24,8 @@
       </div>
     </div>
   </div>
-
-
-  <style>
+  
+ <style>
 /*!
  * MDB5
  *   Version: FREE 4.3.0
