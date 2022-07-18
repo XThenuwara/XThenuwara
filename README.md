@@ -24,13 +24,15 @@ Undergraduate at NIBM
     Passionate about web , Experimenting with User Interfaces . Love to build Software .
 </code>
 
-<br>
+<br/>
+<br/>
+<br/>
 
 <h2> Live Projects </h2>
 <table width="100$">
     <tbody>
-        <tr valign="top">
-            <td width="25%" align="center">
+        <tr valign="center">
+            <td width="25%">
                 <h3>Portfolio
                 <div>
                     <kbd>
@@ -41,13 +43,18 @@ Undergraduate at NIBM
                     </kbd>
                 </div>
                 </h3>
+                <br>
                 <div align="end">
-                <mark>
                     <a href="xthenuwar.github.io/portfolio" target="_blank">
-                        <fieldset>
+                        <table border="0" align="end">
+                            <tbody>
+                            <tr>
+                            <td align="end">
                             >
-                        </fieldset>
-                </mark>
+                            </td>
+                            </tr>
+                            </tbody>
+                        </table>
                 </a>
                 </div>
             </td>
@@ -62,13 +69,18 @@ Undergraduate at NIBM
                     </kbd>
                 </div>
                 </h3>
+                 <br>
                 <div align="end">
-                <mark>
                     <a href="xthenuwar.github.io/cvmaker" target="_blank">
-                        <fieldset>
+                                   <table border="0">
+                            <tbody>
+                            <tr>
+                            <td>
                             >
-                        </fieldset>
-                </mark>
+                            </td>
+                            </tr>
+                            </tbody>
+                        </table>
                 </a>
                 </div>
             </td>
@@ -83,13 +95,18 @@ Undergraduate at NIBM
                     </kbd>
                 </div>
                 </h3>
+                 <br>
                 <div align="end">
-                <mark>
                     <a href="xthenuwar.github.io/notes" target="_blank">
-                        <fieldset>
+                                     <table border="0">
+                            <tbody>
+                            <tr>
+                            <td>
                             >
-                        </fieldset>
-                </mark>
+                            </td>
+                            </tr>
+                            </tbody>
+                        </table>
                 </a>
                 </div>
             </td>
@@ -104,13 +121,18 @@ Undergraduate at NIBM
                     </kbd>
                 </div>
                 </h3>
+                 <br>
                 <div align="end">
-                <mark>
                     <a href="xthenuwar.github.io/portfolio" target="_blank">
-                        <fieldset>
+                                     <table border="0">
+                            <tbody>
+                            <tr>
+                            <td>
                             >
-                        </fieldset>
-                </mark>
+                            </td>
+                            </tr>
+                            </tbody>
+                        </table>
                 </a>
                 </div>
             </td>
@@ -118,3 +140,38 @@ Undergraduate at NIBM
     </tbody>
 
 </table>
+
+<br>
+<h2>Skills</h2>
+
+<pre>
+<kbd> Javascript </kbd> <kbd> Typescript </kbd> <kbd> ReactJS </kbd> <kbd> NextJS </kbd> 
+<small></small>
+<kbd> NodeJS </kbd> <kbd> NestJS </kbd> <kbd> ElectronJs </kbd>
+</pre>
+
+<pre>
+<kbd> C# </kbd> <kbd> Java </kbd> <kbd> C/C++ </kbd> <kbd> PHP </kbd>
+</pre>
+
+<pre>
+<kbd> Mysql </kbd> <kbd> MsSql </kbd> <kbd> MongoDb </kbd> 
+</pre>
+
+<pre>
+<kbd> Azure </kbd> <kbd> AWS S3 </kbd> <kbd> AWS Lambda </kbd> <kbd> Firebase </kbd>
+</pre>
+
+<pre>
+<kbd> Docker </kbd> <kbd> Figma </kbd> <kbd> git </kbd> <kbd> Firebase </kbd>
+</pre>
+
+<br/>
+<br/>
+
+<pre>
+  <h1>Bye</h1>
+  <div align="end">
+    <small>This <kbd>README.md</kbd> made using only HTML</small>
+  </div>
+</pre>
