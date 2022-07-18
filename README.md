@@ -29,10 +29,10 @@ Undergraduate at NIBM
 <br/>
 
 <h2> Live Projects </h2>
-<table width="100$">
+<table width="100%">
     <tbody>
         <tr valign="center">
-            <td width="35%">
+            <td width="25%">
                 <h3>Portfolio
                 <div>
                     <kbd>
@@ -44,15 +44,17 @@ Undergraduate at NIBM
                 </div>
                 </h3>
                 <br>
-                <div>
+                <div align="end">
                     <a href="xthenuwar.github.io/portfolio" target="_blank">
-                        <pre>
+                             <code border="0" align="end">
+                             <b>
                           >
-                        </pre>
+                          </b>
+                        </code>
                 </a>
                 </div>
             </td>
-            <td width="25%">
+            <td width="25%" >
               <h3>CvMaker
                 <div>
                     <kbd>
@@ -66,9 +68,11 @@ Undergraduate at NIBM
                  <br>
                 <div align="end">
                     <a href="xthenuwar.github.io/cvmaker" target="_blank">
-                                <pre border="0" align="end">
+                                   <code border="0" align="end">
+                              <b>
                           >
-                        </pre>
+                          </b>
+                        </code>
                 </a>
                 </div>
             </td>
@@ -86,9 +90,11 @@ Undergraduate at NIBM
                  <br>
                 <div align="end">
                     <a href="xthenuwar.github.io/notes" target="_blank">
-                                  <pre border="0" align="end">
+                                   <code border="0" align="end">
+                            <b>
                           >
-                        </pre>
+                          </b>
+                        </code>
                 </a>
                 </div>
             </td>
@@ -106,9 +112,11 @@ Undergraduate at NIBM
                  <br>
                 <div align="end">
                     <a href="xthenuwar.github.io/portfolio" target="_blank">
-                                   <pre border="0" align="end">
+                                  <code border="0" align="end">
+                            <b>
                           >
-                        </pre>
+                          </b>
+                        </code>
                 </a>
                 </div>
             </td>
