@@ -1,14 +1,14 @@
 <h1>
     Yasas Hansaka Thenuwara
-    <div>
+    <div >
         <kbd>
-            
-![twitter](https://twitter.com/xThenuwara)
+
+[twitter](https://twitter.com/xThenuwara)
 
 </kbd> 
 <kbd>
 
-![LinkedIn](https://twitter.com/xThenuwara) </kbd> </div>
+[LinkedIn](https://twitter.com/xThenuwara) </kbd> </div>
 
 </h1>
 
