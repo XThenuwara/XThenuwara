@@ -2,16 +2,14 @@
     Yasas Hansaka Thenuwara
     <div>
         <kbd>
-            <a href="">
-![twitter](https://pages.github.com/)
-            </a>
-        </kbd>
-        <kbd>
-            <a href="">
-                Linkedin
-            </a>
-        </kbd>
-    </div>
+            
+![twitter](https://twitter.com/xThenuwara)
+
+</kbd> 
+<kbd>
+
+![LinkedIn](https://twitter.com/xThenuwara) </kbd> </div>
+
 </h1>
 
 ```
