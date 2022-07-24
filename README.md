@@ -41,85 +41,10 @@ Undergraduate at NIBM
                     </kbd>
                 </div>
                 </h3>
-                <br>
-                <div align="end">
-                    <a href="xthenuwar.github.io/portfolio" target="_blank">
-                             <code border="0" align="end">
-                             <b>
-                          >
-                          </b>
-                        </code>
-                </a>
-                </div>
-            </td>
-            <td width="25%" >
-              <h3>CvMaker
-                <div>
-                    <kbd>
-                        React
-                    </kbd>
-                    <kbd>
-                        Firebase
-                    </kbd>
-                </div>
-                </h3>
-                 <br>
-                <div align="end">
-                    <a href="xthenuwar.github.io/cvmaker" target="_blank">
-                                   <code border="0" align="end">
-                              <b>
-                          >
-                          </b>
-                        </code>
-                </a>
-                </div>
-            </td>
-            <td width="25%">
-              <h3>Notes
-                <div>
-                    <kbd>
-                        React
-                    </kbd>
-                    <kbd>
-                        Firebase
-                    </kbd>
-                </div>
-                </h3>
-                 <br>
-                <div align="end">
-                    <a href="xthenuwar.github.io/notes" target="_blank">
-                                   <code border="0" align="end">
-                            <b>
-                          >
-                          </b>
-                        </code>
-                </a>
-                </div>
-            </td>
-            <td width="25%">
-            <h3>More will
-                <div>
-                    <kbd>
-                        be coming
-                    </kbd>
-                    <kbd>
-                        soon
-                    </kbd>
-                </div>
-                </h3>
-                 <br>
-                <div align="end">
-                    <a href="xthenuwar.github.io/portfolio" target="_blank">
-                                  <code border="0" align="end">
-                            <b>
-                          >
-                          </b>
-                        </code>
-                </a>
-                </div>
-            </td>
-        </tr>
-    </tbody>
+                <br/>
+                <pre align="end">
+
+[>](https://xthenuwara.github.io/portfolio/) </pre> </td> <td width="25%"> <h3>CvMaker <div> <kbd> React Ts </kbd> <kbd> Firebase </kbd> </div> </h3> <br/> <pre align="end"> [>](https://xthenuwara.github.io/cvmaker/) </pre> </td> <td width="25%"> <h3>Notes <div> <kbd> React Ts </kbd> <kbd> Firebase </kbd> </div> </h3> <br/> <pre align="end"> [>](https://xthenuwara.github.io/portfolio/) </pre> </td> <td width="25%"> <h3>More will <div> <kbd> be coming </kbd> <kbd> soon.. </kbd> </div> </h3> <br> <pre align="end"> [>](https://xthenuwara.github.io/portfolio/) </pre> </td> </tr> </tbody>
 
 </table>
 
