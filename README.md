@@ -10,6 +10,9 @@
 
 [LinkedIn](https://twitter.com/xThenuwara) </kbd> </div>
 
+<code>
+    Passionate about web , Experimenting with User Interfaces . Love to build Software .
+</code>
 </h1>
 
 ```
@@ -18,9 +21,7 @@ Associate Software Enginner at Fortude
 Undergraduate at NIBM
 ```
 
-<code>
-    Passionate about web , Experimenting with User Interfaces . Love to build Software .
-</code>
+
 
 <br/>
 <br/>
