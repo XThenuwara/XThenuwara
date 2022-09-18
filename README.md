@@ -9,11 +9,11 @@
 <kbd>
 
 [LinkedIn](https://twitter.com/xThenuwara) </kbd> </div>
+</h1>
 
 <code>
     Passionate about web , Experimenting with User Interfaces . Love to build Software .
 </code>
-</h1>
 
 ```
 Associate Software Enginner at Fortude
