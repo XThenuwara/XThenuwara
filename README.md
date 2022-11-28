@@ -12,7 +12,6 @@
 
 </h1>
 
-
 <h6>
 <code>
     Passionate about web , Experimenting with User Interfaces . Love to build Software .
@@ -25,8 +24,6 @@ Associate Software Enginner at Fortude
 Undergraduate at NIBM
 ```
 
-
-
 <br/>
 <br/>
 <br/>
@@ -37,42 +34,80 @@ Undergraduate at NIBM
         <tr valign="center">
             <td width="25%">
                 <h3>Portfolio
-                <div>
-                    <kbd>
-                        React
-                    </kbd>
-                    <kbd>
-                        Typescript
-                    </kbd>
-                </div>
+                    <div>
+                        <kbd>React</kbd>
+                        <kbd>Typescript</kbd>
+                    </div>
                 </h3>
                 <br/>
                 <pre align="end">
-
-[>](https://xthenuwara.github.io/portfolio/) </pre> </td> <td width="25%"> <h3>CvMaker <div> <kbd> React Ts </kbd> <kbd> Firebase </kbd> </div> </h3> <br/> <pre align="end"> [>](https://xthenuwara.github.io/cvmaker/) </pre> </td> <td width="25%"> <h3>Notes <div> <kbd> React Ts </kbd> <kbd> Firebase </kbd> </div> </h3> <br/> <pre align="end"> [>](https://xthenuwara.github.io/portfolio/) </pre> </td> <td width="25%"> <h3>More will <div> <kbd> be coming </kbd> <kbd> soon.. </kbd> </div> </h3> <br> <pre align="end"> [>](https://xthenuwara.github.io/portfolio/) </pre> </td> 
-        
-             <td width="25%">
-                <h3>WebAR Demo
-                <div>
-                    <kbd>
-                        React
-                    </kbd>
-                    <kbd>
-                        Typescript
-                    </kbd>
-                                        <kbd>
-                        ThreeJS
-                    </kbd>
-                </div>
+                    <a href="https://xthenuwara.github.io/portfolio/">></a>
+                </pre>
+            </td> 
+            <td width="25%"> 
+                <h3>CvMaker 
+                    <div>
+                        <kbd>ReactTS</kbd>
+                        <kbd>Firebase</kbd>
+                    </div>
                 </h3>
                 <br/>
                 <pre align="end">
-
-[>](https://xthenuwara.github.io/webar-demo/) </pre> </td>
-            
-        
-        </tr> </tbody>
-
+                    <a href="https://xthenuwara.github.io/cvmaker/">></a>
+                </pre> 
+            </td> 
+            <td width="25%">
+                <h3>Notes
+                    <div>
+                        <kbd>ReactTS</kbd>
+                        <kbd>Firebase</kbd>
+                    </div>
+                </h3>
+                <br/>
+                <pre align="end"> 
+                    <a href="https://xthenuwara.github.io/notes/">></a>
+                </pre>
+            </td>
+            <td width="25%">
+                <h3>More will
+                    <div>
+                        <kbd>be coming</kbd>
+                        <kbd>soon..</kbd>
+                    </div>
+                </h3>
+                <br>
+                <pre align="end"> 
+                    <a href="https://xthenuwara.github.io//">></a>
+                </pre>
+            </td>
+        </tr> 
+        <tr>
+            <td width="25%">
+                <h3>SQLDOC
+                    <div>
+                        <kbd>React</kbd>
+                        <kbd>Typescript</kbd>
+                    </div>
+                </h3>
+                <br>
+                <pre align="end"> 
+                    <a href="https://xthenuwara.github.io/SQLDOC">></a>
+                </pre>
+            </td>
+            <td width="25%">
+                <h3>WebAR-Demo
+                    <div>
+                        <kbd>React</kbd>
+                        <kbd>Typescript</kbd>
+                    </div>
+                </h3>
+                <br>
+                <pre align="end"> 
+                    <a href="https://xthenuwara.github.io/webar-demo">></a>
+                </pre>
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 <br>
