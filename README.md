@@ -91,7 +91,7 @@ Undergraduate at NIBM
                 </h3>
                 <br>
                 <pre align="end"> 
-                    <a href="https://xthenuwara.github.io/SQLDOC">></a>
+                    <a href="https://xthenuwara.github.io/sqldoc/">></a>
                 </pre>
             </td>
             <td width="25%">
