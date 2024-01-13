@@ -1,26 +1,27 @@
 <h1>
     Yasas Hansaka Thenuwara
-    <div>
-        <kbd>
-
-[twitter](https://twitter.com/xThenuwara)
-        </kbd> 
-        <kbd>
-[LinkedIn](https://twitter.com/xThenuwara) 
-        </kbd> 
-</div>
-
 </h1>
-
-<h6>
-<code>
-    Passionate about web , Experimenting with User Interfaces . Love to build Software .
-</code>
-</h6>
 
 ```
 Software Engineer | Undergraduate
 ```
+
+<div>
+    <kbd>
+
+[twitter](https://twitter.com/xThenuwara)
+    </kbd> 
+    <kbd>
+[LinkedIn](https://twitter.com/xThenuwara) 
+    </kbd> 
+</div>
+
+
+<h6>
+<code>Passionate about web , Experimenting with User Interfaces . Love to build Software .</code>
+</h6>
+
+
 
 <br/>
 <br/>
