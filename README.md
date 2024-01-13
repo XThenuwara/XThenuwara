@@ -19,9 +19,7 @@
 </h6>
 
 ```
-Associate Software Enginner at Fortude
-
-Undergraduate at NIBM
+Software Engineer | Undergraduate
 ```
 
 <br/>
