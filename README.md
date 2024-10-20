@@ -21,12 +21,6 @@ Software Engineer | Undergraduate
 <code>Passionate about web , Experimenting with User Interfaces . Love to build Software .</code>
 </h6>
 
-
-
-<br/>
-<br/>
-<br/>
-
 <!-- <h2> Live Projects </h2>
 <table width="100%">
     <tbody>
@@ -110,7 +104,6 @@ Software Engineer | Undergraduate
 </table> -->
 
 <br>
-<h2>Skills</h2>
 
 <pre>
 <kbd> Javascript </kbd> <kbd> Typescript </kbd> <kbd> ReactJS </kbd> <kbd> NextJS </kbd> 
