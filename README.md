@@ -27,7 +27,7 @@ Software Engineer | Undergraduate
 <br/>
 <br/>
 
-<h2> Live Projects </h2>
+<!-- <h2> Live Projects </h2>
 <table width="100%">
     <tbody>
         <tr valign="center">
@@ -107,7 +107,7 @@ Software Engineer | Undergraduate
             </td>
         </tr>
     </tbody>
-</table>
+</table> -->
 
 <br>
 <h2>Skills</h2>
@@ -140,6 +140,5 @@ Software Engineer | Undergraduate
 <pre>
   <h1>Bye</h1>
   <div align="end">
-    <small>This <kbd>README.md</kbd> made using only HTML</small>
   </div>
 </pre>
