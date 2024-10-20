@@ -129,9 +129,3 @@ Software Engineer | Undergraduate
 
 <br/>
 <br/>
-
-<pre>
-  <h1>Bye</h1>
-  <div align="end">
-  </div>
-</pre>
