@@ -3,7 +3,7 @@
 </h1>
 
 ```
-Software Engineer | Undergraduate
+Software Engineer
 ```
 
 <div>
